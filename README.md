@@ -1,2 +1,0 @@
-# HTL
-School
